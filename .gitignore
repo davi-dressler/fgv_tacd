@@ -1,0 +1,10 @@
+# python cache
+__pycache__/
+# Jupyter Notebook checkpoints
+.mypy_cache/
+.ipynb_checkpoints/
+
+# python environment
+venv/
+.venv/
+env/
